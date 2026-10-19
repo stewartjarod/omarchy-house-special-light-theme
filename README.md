@@ -11,7 +11,7 @@ A light Catppuccin Latte theme for [Omarchy](https://omarchy.org), tuned so ever
 - **Selection** tinted with the accent (`#e5dfec`), not a grey-blue block.
 - **Even-contrast terminal colors.** Red, green, cyan, blue and magenta are adjusted in lightness only (hue and vividness kept) to 4.5:1 against the background, the usual minimum for small text. Stock Latte ranges from 2.4:1 to 4.9:1, so yellow and pink are hard to read.
 - **Yellow and orange that still look yellow and orange.** Darkening them to 4.5:1 turns them brown, so yellow is Solarized's gold (`#b58900`) and orange is a true burnt orange (`#d75f00`).
-- **Seven wallpapers:** daylight versions of House Special Dark's five (a mauve doorway, an Arch Linux portal, tiled windows, an omakase torii gate, a digital logo), the pixel logo in mauve on paper, and Latte's pastel color fade.
+- **Seven wallpapers:** daylight versions of House Special Dark's five (a mauve doorway, an Arch Linux portal, tiled windows, an omakase torii gate, a digital logo), the pixel logo in mauve on a darker paper, and Latte's pastel color fade.
 
 ## Colors
 
