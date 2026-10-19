@@ -2,7 +2,7 @@
 
 A light Catppuccin Latte theme for [Omarchy](https://omarchy.org), tuned so every color reads well on paper. It's the daytime sibling of [House Special Dark](https://github.com/stewartjarod/omarchy-house-special-dark-theme).
 
-![House Special Light](docs/palette.png)
+![House Special Light](backgrounds/1-color-fade.png)
 
 ## What makes it special
 
@@ -14,6 +14,8 @@ A light Catppuccin Latte theme for [Omarchy](https://omarchy.org), tuned so ever
 - **Two wallpapers:** Latte's pastel color fade and the Omarchy logo in mauve.
 
 ## Colors
+
+![House Special Light colors](docs/palette.png)
 
 | | Hex | Contrast on background |
 |---|---|---|
