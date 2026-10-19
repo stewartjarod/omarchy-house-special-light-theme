@@ -2,7 +2,7 @@
 
 A light Catppuccin Latte theme for [Omarchy](https://omarchy.org), tuned so every color reads well on paper. It's the daytime sibling of [House Special Dark](https://github.com/stewartjarod/omarchy-house-special-dark-theme).
 
-![House Special Light](backgrounds/1-color-fade.png)
+![House Special Light](backgrounds/5-digital-logo.jpg)
 
 ## What makes it special
 
@@ -11,7 +11,7 @@ A light Catppuccin Latte theme for [Omarchy](https://omarchy.org), tuned so ever
 - **Selection** tinted with the accent (`#e5dfec`), not a grey-blue block.
 - **Even-contrast terminal colors.** Red, green, cyan, blue and magenta are adjusted in lightness only (hue and vividness kept) to 4.5:1 against the background, the usual minimum for small text. Stock Latte ranges from 2.4:1 to 4.9:1, so yellow and pink are hard to read.
 - **Yellow and orange that still look yellow and orange.** Darkening them to 4.5:1 turns them brown, so yellow is Solarized's gold (`#b58900`) and orange is a true burnt orange (`#d75f00`).
-- **Two wallpapers:** Latte's pastel color fade and the Omarchy logo in mauve.
+- **Seven wallpapers:** daylight versions of House Special Dark's five (a mauve doorway, an Arch Linux portal, tiled windows, an omakase torii gate, a digital logo), the pixel logo in mauve on paper, and Latte's pastel color fade.
 
 ## Colors
 
@@ -41,6 +41,7 @@ To switch between this theme by day and House Special Dark by night, run a small
 
 - Colors from the [Catppuccin](https://catppuccin.com/palette/) Latte palette (MIT).
 - Yellow from [Solarized](https://ethanschoonover.com/solarized/) by Ethan Schoonover (MIT).
+- Wallpapers 1–5 were generated with Gemini from House Special Dark's wallpapers, using this theme's palette.
 - The color-fade wallpaper, the logo wallpaper and the unlock art come from Omarchy's Catppuccin Latte theme, recolored. The Omarchy logo belongs to the [Omarchy](https://github.com/omacom/omarchy) project (MIT).
 
 ## License
