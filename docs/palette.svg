@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1800" height="1060" viewBox="0 0 1800 1060">
+<rect width="1800" height="1060" fill="#f5f4f2"/>
+<svg x="120" y="96" width="364" height="86" viewBox="0 0 1215 285"><g><g fill="#8b65c7"><path clip-rule="evenodd" d="m720 120h-15v15h-14.998v14.999l-60.002.001v15.002l90-.002v.002h.002l-.002 89.998h-15v15h-13v15h-17v-89.998h-45v90l-45-.002v-89.998h-14.998v-30h14.998v-15.002h-14.998v-30.001h14.998v-75h15v-14.997h15v-15.002h105.002zm-90-.001h45v-74.997h-45z" fill-rule="evenodd"/><path clip-rule="evenodd" d="m105 30.002h15v14.997h15v180.001h-15v15h-15v15.002h-75v-15.002h-15v-15h-15v-180.001h15v-14.997h15v-15.002h75zm-60 194.998h45v-179.998h-45z" fill-rule="evenodd"/><path d="m300 15h60v15h15v14.999h15v180.001h-15v15h-15v15h-15l-.004-209.998h-44.994v-.002h-.002v210.002h-45v-210h-44.998v179.997h-.002v30.003h-15v-15.002h-15v-15h-14.998v-180.001h14.998v-14.999h15v-15h60v-15h45z"/><path clip-rule="evenodd" d="m555 225h-15v15h-15v15h-15v-105.001l-44.998.001v105.002h-45.002v-105.002h-15v-30.001h15v-75h15.002v-14.997h15v-15.002h105zm-89.998-105.001h44.998v-74.997h-44.998z" fill-rule="evenodd"/><path d="m885 75h-15v15h-15v15h-15v-59.998h-45v179.998h45v-59.998h15v14.997h15v15.001h15v30h-15v15h-15v15.002l-105-.002v-210.001h14.998v-14.997h15.002v-15.002h105z"/><path d="m960 119.999h45v-104.999h15v15h15v14.999h15v75.001h15v15h-15v90h-15v15h-15v15h-15v-105h-45v105.002l-45-.002v-105h-30v-15h15v-15.001h15v-75h15v-14.997h15v-15.002h15z"/><path d="m1125 119.999h45v-104.999h15v15h15v15h15v180h-15v15h-15v15.002l-75-.002v-15h-15v-15h-15v-45.001h15v-14.997-.002h30v60h45v-75h-90v-105.001h15v-14.997h15v-15.002h15z"/></g></g></svg>
+<text x="120" y="262" font-family="JetBrainsMono Nerd Font" font-size="52" font-weight="700" fill="#4c4f69">House Special Light</text>
+<text x="120" y="312" font-family="JetBrainsMono Nerd Font" font-size="26" fill="#6c6f85">Latte on paper, with even-contrast terminal colors</text>
+<text x="120" y="410" font-family="JetBrainsMono Nerd Font" font-size="22" letter-spacing="4" fill="#6c6f85">BASE</text>
+<rect x="120" y="438" width="240" height="150" rx="14" fill="#f5f4f2" stroke="#cbcbd0" stroke-width="2"/>
+<text x="122" y="628" font-family="JetBrainsMono Nerd Font" font-size="26" font-weight="700" fill="#4c4f69">Background</text>
+<text x="122" y="664" font-family="JetBrainsMono Nerd Font" font-size="24" fill="#6c6f85">#f5f4f2</text>
+<rect x="384" y="438" width="240" height="150" rx="14" fill="#e6e3df"/>
+<text x="386" y="628" font-family="JetBrainsMono Nerd Font" font-size="26" font-weight="700" fill="#4c4f69">Surface</text>
+<text x="386" y="664" font-family="JetBrainsMono Nerd Font" font-size="24" fill="#6c6f85">#e6e3df</text>
+<rect x="648" y="438" width="240" height="150" rx="14" fill="#e5dfec"/>
+<text x="650" y="628" font-family="JetBrainsMono Nerd Font" font-size="26" font-weight="700" fill="#4c4f69">Selection</text>
+<text x="650" y="664" font-family="JetBrainsMono Nerd Font" font-size="24" fill="#6c6f85">#e5dfec</text>
+<rect x="912" y="438" width="240" height="150" rx="14" fill="#aeacb4"/>
+<text x="914" y="628" font-family="JetBrainsMono Nerd Font" font-size="26" font-weight="700" fill="#4c4f69">Muted</text>
+<text x="914" y="664" font-family="JetBrainsMono Nerd Font" font-size="24" fill="#6c6f85">#aeacb4</text>
+<rect x="1176" y="438" width="240" height="150" rx="14" fill="#4c4f69"/>
+<text x="1178" y="628" font-family="JetBrainsMono Nerd Font" font-size="26" font-weight="700" fill="#4c4f69">Text</text>
+<text x="1178" y="664" font-family="JetBrainsMono Nerd Font" font-size="24" fill="#6c6f85">#4c4f69</text>
+<rect x="1440" y="438" width="240" height="150" rx="14" fill="#8b65c7"/>
+<text x="1442" y="628" font-family="JetBrainsMono Nerd Font" font-size="26" font-weight="700" fill="#4c4f69">Accent</text>
+<text x="1442" y="664" font-family="JetBrainsMono Nerd Font" font-size="24" fill="#6c6f85">#8b65c7</text>
+<text x="120" y="730" font-family="JetBrainsMono Nerd Font" font-size="22" letter-spacing="4" fill="#6c6f85">TERMINAL</text>
+<rect x="120" y="758" width="240" height="150" rx="14" fill="#da1f3f"/>
+<text x="122" y="948" font-family="JetBrainsMono Nerd Font" font-size="26" font-weight="700" fill="#4c4f69">Red</text>
+<text x="122" y="984" font-family="JetBrainsMono Nerd Font" font-size="24" fill="#6c6f85">#da1f3f</text>
+<rect x="384" y="758" width="240" height="150" rx="14" fill="#218200"/>
+<text x="386" y="948" font-family="JetBrainsMono Nerd Font" font-size="26" font-weight="700" fill="#4c4f69">Green</text>
+<text x="386" y="984" font-family="JetBrainsMono Nerd Font" font-size="24" fill="#6c6f85">#218200</text>
+<rect x="648" y="758" width="240" height="150" rx="14" fill="#b58900"/>
+<text x="650" y="948" font-family="JetBrainsMono Nerd Font" font-size="26" font-weight="700" fill="#4c4f69">Yellow</text>
+<text x="650" y="984" font-family="JetBrainsMono Nerd Font" font-size="24" fill="#6c6f85">#b58900</text>
+<rect x="912" y="758" width="240" height="150" rx="14" fill="#1d65f4"/>
+<text x="914" y="948" font-family="JetBrainsMono Nerd Font" font-size="26" font-weight="700" fill="#4c4f69">Blue</text>
+<text x="914" y="984" font-family="JetBrainsMono Nerd Font" font-size="24" fill="#6c6f85">#1d65f4</text>
+<rect x="1176" y="758" width="240" height="150" rx="14" fill="#b44599"/>
+<text x="1178" y="948" font-family="JetBrainsMono Nerd Font" font-size="26" font-weight="700" fill="#4c4f69">Magenta</text>
+<text x="1178" y="984" font-family="JetBrainsMono Nerd Font" font-size="24" fill="#6c6f85">#b44599</text>
+<rect x="1440" y="758" width="240" height="150" rx="14" fill="#087c83"/>
+<text x="1442" y="948" font-family="JetBrainsMono Nerd Font" font-size="26" font-weight="700" fill="#4c4f69">Cyan</text>
+<text x="1442" y="984" font-family="JetBrainsMono Nerd Font" font-size="24" fill="#6c6f85">#087c83</text>
+</svg>
