@@ -21,11 +21,11 @@ A light Catppuccin Latte theme for [Omarchy](https://omarchy.org), tuned so ever
 |---|---|---|
 | Text | `#4c4f69` | 7.3:1 |
 | Accent | `#8b65c7` | 4.0:1 |
-| Red | `#da1f3f` | 4.5:1 |
-| Green | `#218200` | 4.5:1 |
+| Red | `#d81b3d` | 4.6:1 |
+| Green | `#1f8000` | 4.6:1 |
 | Cyan | `#087c83` | 4.5:1 |
 | Blue | `#1d65f4` | 4.5:1 |
-| Magenta | `#b44599` | 4.5:1 |
+| Magenta | `#b24398` | 4.6:1 |
 | Orange | `#d75f00` | 3.5:1 |
 | Yellow | `#b58900` | 2.9:1 |
 
